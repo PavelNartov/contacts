@@ -4,7 +4,7 @@ require 'rubygems'
 
 require 'base'
 require 'json_picker'
-require 'gmail'
+#require 'gmail'
 require 'hotmail'
 require 'yahoo'
 require 'plaxo'
